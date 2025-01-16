@@ -46,7 +46,7 @@
 
 ## GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ThienoAmadouDIALLO&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide_border=true&theme=radical)
 ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
 
 <!--
