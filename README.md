@@ -45,10 +45,11 @@
 ---
 
 ## GitHub Stats:
-<!--
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=radical)
 ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
--->
+
+<!--
 <div align="center">
   
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide_border=true&theme=radical)
@@ -58,6 +59,9 @@
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
 
 </div>
+
+-->
+
 <!--
 **DialloAhmad/DialloAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
