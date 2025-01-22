@@ -2,7 +2,7 @@
 
 - 🌟 I'm a data scientist.
 - 📊 I love exploring data, building machine learning models, and solving real-world problems with data.
-- 🌱 **Currently working on anomaly detection**, exploring how to improve model performance using ensemble learning methods with the ADBench benchmark.  
+- 🌱 **Currently working on anomaly detection** <!--, exploring how to improve model performance using ensemble learning methods with the ADBench benchmark.  -->
 - 💡 Ask me about **3AM0$T 3N1TH1N7** in **Data Science** and **Artificial Intelligence**.
 ---
 
